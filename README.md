@@ -2,12 +2,12 @@
 
 A smart e-learning suite designed to improve e-learning experience and enhance student-teacher interaction.
 
-# Airboard + AirScript = AirEdu ❤️
+# AirBoard + AirScript = AirEdu ❤️
 
 - ## AirBoard 👨‍🏫
 
 Draw on a Board by waving finger in Air
-<img src ="Screenshots/airboard.png" width=400>
+<img src ="Screenshots/airboard.png">
 
 - ## AirScript 
 
@@ -21,7 +21,7 @@ Generate Paperless document in your own handwriting. AirScript Uses RNN architec
 
 
 - ## AirEdu 
-A Flutter Cross-Platform Application to wrapping both the suites.
+A Flutter Cross-Platform Application to wrapping both the application.
 
 ### System Architecture:
 <img src ="Screenshots/airedu.png">
